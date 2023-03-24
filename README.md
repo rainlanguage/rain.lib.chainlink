@@ -1,14 +1,5 @@
-# qakit.foundry
-Cross cutting QA concerns for foundry based solidity development
+# rain.lib.chainlink
 
-## Install
+Integrates with chainlink `AggregatorV3Interface`.
 
-```
-forge install rainprotocol/qakit.foundry foundry-rs/forge-std
-```
-
-Run `sync.sh`
-
-## Update
-
-`forge update lib/qakit.foundry`
+Docs at http://rainprotocol.github.io/rain.lib.chainlink
